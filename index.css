@@ -1,0 +1,21 @@
+body {
+	font-family: Optima;
+}
+
+#topvideo source {
+	max-width: 1024px;
+	min-height: 50px;
+}
+
+#topnav p {
+	display: inline-block;
+	background: grey;
+	padding: 8px 16px;
+	margin-right: 5px;
+	border-radius: 7px
+}
+
+#topnav p a {
+	color: white;
+}
+
