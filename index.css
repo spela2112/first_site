@@ -3,8 +3,8 @@ body {
 }
 
 #topvideo source {
-	max-width: 1024px;
-	min-height: 50px;
+	width: 1024px;
+	height: 200px;
 }
 
 #topnav p {
@@ -17,5 +17,9 @@ body {
 
 #topnav p a {
 	color: white;
+}
+
+.main-content {
+	margin: 10px;
 }
 
