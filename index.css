@@ -2,9 +2,9 @@ body {
 	font-family: Optima;
 }
 
-#topvideo source {
-	height: 465px;
-	background-color: gray;
+#topvideo {
+	height: 465px; 
+	background-color: gray; 
 	overflow-y: hidden;
 }
 
